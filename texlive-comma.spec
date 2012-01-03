@@ -6,7 +6,7 @@
 # catalog-version 1.2
 Name:		texlive-comma
 Version:	1.2
-Release:	1
+Release:	2
 Summary:	Formats a number by inserting commas
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/comma
